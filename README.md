@@ -73,9 +73,9 @@ Daha doğrudan bir destek sunmak isterseniz, [![ko-fi](https://ko-fi.com/img/git
 
 **Çeviri**
 
-- [Huantanhua](https://github.com/Huantanhua) için Basitleştirilmiş Çince çevirileri
-- [Abbage230](https://github.com/Abbage230) için Japonca çevirileri
-- [Golge07](https://github.com/Golge07) için Türkçe Çeviri
+- Basitleştirilmiş Çince çevirileri için [Huantanhua](https://github.com/Huantanhua) 
+- Japonca çevirileri için [Abbage230](https://github.com/Abbage230) 
+- Türkçe Çeviri için [Golge07](https://github.com/Golge07)
 
 **İlham**
 
